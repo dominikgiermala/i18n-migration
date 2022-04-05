@@ -1,0 +1,10 @@
+ [
+		"module.profile.text.email_offer",
+		"module.profile.text.avios_offer_double_points",
+		"module.profile.text.avios_offer_news",
+		"module.profile.text.avios_offer_spend",
+		"module.profile.text.avios_offer_reward",
+		"module.profile.text.receive_email_offer",
+		"form.profile.text.avios_expired_error",
+		"module.subscription.button.subscribe"
+]
